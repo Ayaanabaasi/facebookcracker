@@ -14,8 +14,7 @@ This is facebook cracker tool now you can hack facebook
 
 ### Download&Install
 
-### git clone https://github.com/Ha3MrX/facebook-cracker
-   
+### git clonehttps://github.com/Ayaanabaasi/facebookcracker.git
 ### cd facebook-cracker
 
 ### chmod +x facebook.py
